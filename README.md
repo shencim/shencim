@@ -1,7 +1,7 @@
 
 
 <h2 align="center">
- <a href="https://discord.com/users/332973153531985930"><img  width="400px" src="https://lanyard.kyrie25.me/api/332973153531985930?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Rahatsız Etme!"></a>
+ <a href="https://discord.com/users/332973153531985930"><img  width="400px" src="https://lanyard.kyrie25.me/api/332973153531985930?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)"></a>
 <br> </br>
   
 <h1 align="center">Hi 👋, I'm Shen</h1>
