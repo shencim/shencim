@@ -16,7 +16,7 @@
 <div align="left">
 <a href="https://github.com/shencim" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-<a href="https://discord.gg/safecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="safecode" height="30" width="40" /></a>
+<a href="https://discord.gg/safecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1902" height="30" width="40" /></a>
 </a>  
 </div>  
 
