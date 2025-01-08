@@ -42,7 +42,7 @@ class shen {
         this.length = "186",
         this.type = "human",
         this.job = "developer",
-        this.weight = "85",
+        this.weight = "94",
         this.age = "21",
         this.discord.tag = "shencim"
     };
