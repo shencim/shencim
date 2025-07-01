@@ -1,5 +1,13 @@
 # 👋 Merhaba, ben Shen
 
+<div align="right">
+  
+**🌐 Language / Dil:**
+[![TR](https://img.shields.io/badge/🇹🇷-Türkçe-red?style=for-the-badge)](README.md)
+[![EN](https://img.shields.io/badge/🇺🇸-English-blue?style=for-the-badge)](README_EN.md)
+
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Discord+Bot+Developer;Web+%26+Mobile+Developer;API+Developer" alt="Typing SVG" />
 </div>
