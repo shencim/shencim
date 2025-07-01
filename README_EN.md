@@ -2,9 +2,8 @@
 
 <div align="right">
   
-**🌐 Language / Dil:**
-[![TR](https://img.shields.io/badge/🇹🇷-Türkçe-red?style=for-the-badge)](README.md)
-[![EN](https://img.shields.io/badge/🇺🇸-English-blue?style=for-the-badge)](README_EN.md)
+[![TR](https://img.shields.io/badge/🇹🇷_Türkçe-Switch-red?style=for-the-badge)](README.md)
+[![EN](https://img.shields.io/badge/🇺🇸_English-Selected-blue?style=for-the-badge)](README_EN.md)
 
 </div>
 
